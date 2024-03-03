@@ -7,5 +7,3 @@ This project showcases the power of Three.js, a JavaScript library for creating 
 1. Clone the repository.
 2. Open the `index.html` file in your favorite web browser.
 3. Marvel at the captivating display of 3D shapes as they rotate gracefully on your screen.
-
-Unleash your creativity and embark on a journey into the fascinating realm of 3D web graphics!
